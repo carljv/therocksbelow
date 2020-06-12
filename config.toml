@@ -1,10 +1,10 @@
-baseurl = "/"
+baseurl = "https://therocksbelow.com/"
 languageCode = "en-us"
 title = "The Rocks Below"
 theme = "blackburn"
 author = "Carl Vogel"
 copyright = "&copy; 2020. All rights reserved."
-canonifyurls = false
+canonifyurls = true
 paginate = 10
 
 [indexes]
