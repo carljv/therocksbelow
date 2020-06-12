@@ -11,7 +11,7 @@ date = "2017-11-16"
 
 This is a link to [the github repo](https://github.com/carljv/therocksbelow/) for the site.
 
-Here's some **important words** and some other *important words*. Sometimes we'll need formulas, so, for $ x_i \in \mathbb{R}^2 $ : 
+Here's some **important words** and some other *important words*. Sometimes we'll need formulas, so, for \\(x_i \in \mathbb{R}^2\\) : 
 
 <div>
 \begin{align}
