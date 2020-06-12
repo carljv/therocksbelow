@@ -1,4 +1,4 @@
-baseurl = "www.therocksbelow.com/"
+baseurl = "http://www.therocksbelow.com/"
 languageCode = "en-us"
 title = "The Rocks Below"
 theme = "blackburn"
