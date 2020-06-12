@@ -1,0 +1,180 @@
+/* Webfonts. */
+
+/* --------------- */
+/* Iowan Old Style */
+/* --------------- */
+@import url("//hello.myfonts.net/count/353096");
+
+@font-face {
+  /* Regular */
+  font-family: 'IowanOldStyleBTPro';
+  font-weight: normal;
+  font-style: normal;
+  
+  src: url('/webfonts/353096_1_0.eot');
+  src:
+  url('/webfonts/353096_1_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/353096_1_0.woff2') format('woff2'),
+  url('/webfonts/353096_1_0.woff') format('woff'),
+  url('/webfonts/353096_1_0.ttf') format('truetype');
+}
+
+@font-face {
+  /* Bold */
+  font-family: 'IowanOldStyleBTPro';
+  font-weight: 700;
+  font-style: normal;
+
+  src: url('/webfonts/353096_2_0.eot');
+  src:
+  url('/webfonts/353096_2_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/353096_2_0.woff2') format('woff2'),
+  url('/webfonts/353096_2_0.woff') format('woff'),
+  url('/webfonts/353096_2_0.ttf') format('truetype');
+}
+  
+@font-face {
+  /* Italic */
+  font-family: 'IowanOldStyleBTPro';
+  font-weight: normal;
+  font-style: italic;
+  
+  src: url('/webfonts/353096_0_0.eot');
+  src:
+  url('/webfonts/353096_0_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/353096_0_0.woff2') format('woff2'),
+  url('/webfonts/353096_0_0.woff') format('woff'),
+  url('/webfonts/353096_0_0.ttf') format('truetype');}
+}
+
+ 
+/* -------------------- */
+/* Verb Extra Condensed */
+/* -------------------- */
+ @import url("//hello.myfonts.net/count/3530a3");
+
+@font-face {
+  /* Regular */
+  font-family: 'VerbExCondWeb';
+  font-weight: normal;
+  font-style: normal;
+
+  src: url('webfonts/3530A3_6_0.eot');
+  src:
+  url('/webfonts/3530A3_6_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_6_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_6_0.woff') format('woff'),
+  url('/webfonts/3530A3_6_0.ttf') format('truetype');
+}
+
+@font-face {
+  /* Regular Italic */
+  font-family: 'VerbExCondWeb';
+  font-weight: normal;
+  font-style: italic;
+
+  src: url('/webfonts/3530A3_F_0.eot');
+  src:
+  url('/webfonts/3530A3_F_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_F_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_F_0.woff') format('woff'),
+  url('/webfonts/3530A3_F_0.ttf') format('truetype');
+}
+
+@font-face {
+  /* Semibold (We use for bold) */
+  font-family: 'VerbExCondWeb';
+  font-weight: 700;
+  font-style: normal;
+
+  src: url('/webfonts/3530A3_7_0.eot');
+  src:
+  url('/webfonts/3530A3_7_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_7_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_7_0.woff') format('woff'),
+  url('/webfonts/3530A3_7_0.ttf') format('truetype');
+}
+
+@font-face {
+  /* Semibold Italic */
+  font-family: 'VerbExCondWeb';
+  font-weight: 700;
+  font-style: italic;
+
+  src: url('/webfonts/3530A3_10_0.eot');
+  src:
+  url('/webfonts/3530A3_10_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_10_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_10_0.woff') format('woff'),
+  url('/webfonts/3530A3_10_0.ttf') format('truetype');
+}
+ 
+@font-face {
+  /* Light */
+  font-family: 'VerbExCondWeb';
+  font-weight: 200;
+  font-style: normal;
+
+  src: url('webfonts/3530A3_4_0.eot');
+  src:
+  url('/webfonts/3530A3_4_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_4_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_4_0.woff') format('woff'),
+  url('/webfonts/3530A3_4_0.ttf') format('truetype');
+}
+
+@font-face {
+  /* Light Italic */
+  font-family: 'VerbExCondWeb';
+  font-weight: 200;
+  font-style: italic;
+
+  src: url('/webfonts/3530A3_D_0.eot');
+  src:
+  url('/webfonts/3530A3_D_0.eot?#iefix') format('embedded-opentype'),
+  url('/webfonts/3530A3_D_0.woff2') format('woff2'),
+  url('/webfonts/3530A3_D_0.woff') format('woff'),
+  url('/webfonts/3530A3_D_0.ttf') format('truetype');
+}
+
+/* ---------- */
+/* Triplicate */
+/* ---------- */
+@font-face {
+  font-family: 'TriplicateT4c';
+  font-weight: normal;
+  font-style: normal;
+
+  src:
+  url('/webfonts/triplicate_t4_code_regular-webfont.woff2') format('woff2'),
+  url('/webfonts/triplicate_t4_code_regular-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TriplicateT4c';
+  font-weight: 700;
+  font-style: normal;
+
+  src:
+  url('/webfonts/triplicate_t4_code_bold-webfont.woff2') format('woff2'),
+  url('/webfonts/triplicate_t4_code_bold-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TriplicateT4c';
+  font-weight: normal;
+  font-style: italic;
+  
+  src:
+  url('/webfonts/triplicate_t4_code_italic-webfont.woff2') format('woff2'),
+  url('/webfonts/triplicate_t4_code_italic-webfont.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'TriplicateT4c';
+  src:
+  url('/webfonts/triplicate_t4_code_bold_italic-webfont.woff2') format('woff2'),
+  url('/webfonts/triplicate_t4_code_bold_italic-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}

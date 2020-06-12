@@ -1,0 +1,10 @@
+# OSX detrius
+.DS_Store
+
+# Emacs detrius
+*~
+\#*\#
+.\#*
+
+# Output directory
+/public

@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+  <div id="site-titles">
+    <h1>{{ .Title }}</h1>
+    <h2>{{ .Site.Params.subtitle }}</h2>
+  </div>
+  
+  <div id="site-image">
+    <img src="{{ $.Site.BaseURL }}/images/cliff-edge.png" height="70px">
+  </div>
+  
+  <div style="clear: left;"> </div>
+</div>
+
+<div class="content">
+  {{ range ( .Paginate (where .Site.RegularPages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+</div>
+
+{{ partial "footer.html" . }}
