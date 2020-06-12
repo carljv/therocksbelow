@@ -4,7 +4,7 @@ title = "The Rocks Below"
 theme = "blackburn"
 author = "Carl Vogel"
 copyright = "&copy; 2020. All rights reserved."
-canonifyurls = true
+canonifyurls = false
 paginate = 10
 
 [indexes]
