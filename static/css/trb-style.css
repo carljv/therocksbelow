@@ -214,3 +214,7 @@ td {
     padding: 2px 5px;
 }
 
+div.small-print {
+    position: absolute;
+    bottom: 0px;
+}
