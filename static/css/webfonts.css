@@ -11,12 +11,12 @@
   font-weight: normal;
   font-style: normal;
   
-  src: url('/webfonts/353096_1_0.eot');
+  src: url('webfonts/353096_1_0.eot');
   src:
-  url('/webfonts/353096_1_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/353096_1_0.woff2') format('woff2'),
-  url('/webfonts/353096_1_0.woff') format('woff'),
-  url('/webfonts/353096_1_0.ttf') format('truetype');
+  url('webfonts/353096_1_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/353096_1_0.woff2') format('woff2'),
+  url('webfonts/353096_1_0.woff') format('woff'),
+  url('webfonts/353096_1_0.ttf') format('truetype');
 }
 
 @font-face {
@@ -25,12 +25,12 @@
   font-weight: 700;
   font-style: normal;
 
-  src: url('/webfonts/353096_2_0.eot');
+  src: url('webfonts/353096_2_0.eot');
   src:
-  url('/webfonts/353096_2_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/353096_2_0.woff2') format('woff2'),
-  url('/webfonts/353096_2_0.woff') format('woff'),
-  url('/webfonts/353096_2_0.ttf') format('truetype');
+  url('webfonts/353096_2_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/353096_2_0.woff2') format('woff2'),
+  url('webfonts/353096_2_0.woff') format('woff'),
+  url('webfonts/353096_2_0.ttf') format('truetype');
 }
   
 @font-face {
@@ -39,12 +39,12 @@
   font-weight: normal;
   font-style: italic;
   
-  src: url('/webfonts/353096_0_0.eot');
+  src: url('webfonts/353096_0_0.eot');
   src:
-  url('/webfonts/353096_0_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/353096_0_0.woff2') format('woff2'),
-  url('/webfonts/353096_0_0.woff') format('woff'),
-  url('/webfonts/353096_0_0.ttf') format('truetype');}
+  url('webfonts/353096_0_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/353096_0_0.woff2') format('woff2'),
+  url('webfonts/353096_0_0.woff') format('woff'),
+  url('webfonts/353096_0_0.ttf') format('truetype');}
 }
 
  
@@ -61,10 +61,10 @@
 
   src: url('webfonts/3530A3_6_0.eot');
   src:
-  url('/webfonts/3530A3_6_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_6_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_6_0.woff') format('woff'),
-  url('/webfonts/3530A3_6_0.ttf') format('truetype');
+  url('webfonts/3530A3_6_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_6_0.woff2') format('woff2'),
+  url('webfonts/3530A3_6_0.woff') format('woff'),
+  url('webfonts/3530A3_6_0.ttf') format('truetype');
 }
 
 @font-face {
@@ -73,12 +73,12 @@
   font-weight: normal;
   font-style: italic;
 
-  src: url('/webfonts/3530A3_F_0.eot');
+  src: url('webfonts/3530A3_F_0.eot');
   src:
-  url('/webfonts/3530A3_F_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_F_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_F_0.woff') format('woff'),
-  url('/webfonts/3530A3_F_0.ttf') format('truetype');
+  url('webfonts/3530A3_F_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_F_0.woff2') format('woff2'),
+  url('webfonts/3530A3_F_0.woff') format('woff'),
+  url('webfonts/3530A3_F_0.ttf') format('truetype');
 }
 
 @font-face {
@@ -87,12 +87,12 @@
   font-weight: 700;
   font-style: normal;
 
-  src: url('/webfonts/3530A3_7_0.eot');
+  src: url('webfonts/3530A3_7_0.eot');
   src:
-  url('/webfonts/3530A3_7_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_7_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_7_0.woff') format('woff'),
-  url('/webfonts/3530A3_7_0.ttf') format('truetype');
+  url('webfonts/3530A3_7_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_7_0.woff2') format('woff2'),
+  url('webfonts/3530A3_7_0.woff') format('woff'),
+  url('webfonts/3530A3_7_0.ttf') format('truetype');
 }
 
 @font-face {
@@ -101,12 +101,12 @@
   font-weight: 700;
   font-style: italic;
 
-  src: url('/webfonts/3530A3_10_0.eot');
+  src: url('webfonts/3530A3_10_0.eot');
   src:
-  url('/webfonts/3530A3_10_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_10_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_10_0.woff') format('woff'),
-  url('/webfonts/3530A3_10_0.ttf') format('truetype');
+  url('webfonts/3530A3_10_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_10_0.woff2') format('woff2'),
+  url('webfonts/3530A3_10_0.woff') format('woff'),
+  url('webfonts/3530A3_10_0.ttf') format('truetype');
 }
  
 @font-face {
@@ -117,10 +117,10 @@
 
   src: url('webfonts/3530A3_4_0.eot');
   src:
-  url('/webfonts/3530A3_4_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_4_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_4_0.woff') format('woff'),
-  url('/webfonts/3530A3_4_0.ttf') format('truetype');
+  url('webfonts/3530A3_4_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_4_0.woff2') format('woff2'),
+  url('webfonts/3530A3_4_0.woff') format('woff'),
+  url('webfonts/3530A3_4_0.ttf') format('truetype');
 }
 
 @font-face {
@@ -129,12 +129,12 @@
   font-weight: 200;
   font-style: italic;
 
-  src: url('/webfonts/3530A3_D_0.eot');
+  src: url('webfonts/3530A3_D_0.eot');
   src:
-  url('/webfonts/3530A3_D_0.eot?#iefix') format('embedded-opentype'),
-  url('/webfonts/3530A3_D_0.woff2') format('woff2'),
-  url('/webfonts/3530A3_D_0.woff') format('woff'),
-  url('/webfonts/3530A3_D_0.ttf') format('truetype');
+  url('webfonts/3530A3_D_0.eot?#iefix') format('embedded-opentype'),
+  url('webfonts/3530A3_D_0.woff2') format('woff2'),
+  url('webfonts/3530A3_D_0.woff') format('woff'),
+  url('webfonts/3530A3_D_0.ttf') format('truetype');
 }
 
 /* ---------- */
@@ -146,8 +146,8 @@
   font-style: normal;
 
   src:
-  url('/webfonts/triplicate_t4_code_regular-webfont.woff2') format('woff2'),
-  url('/webfonts/triplicate_t4_code_regular-webfont.woff') format('woff');
+  url('webfonts/triplicate_t4_code_regular-webfont.woff2') format('woff2'),
+  url('webfonts/triplicate_t4_code_regular-webfont.woff') format('woff');
 }
 
 @font-face {
@@ -156,8 +156,8 @@
   font-style: normal;
 
   src:
-  url('/webfonts/triplicate_t4_code_bold-webfont.woff2') format('woff2'),
-  url('/webfonts/triplicate_t4_code_bold-webfont.woff') format('woff');
+  url('webfonts/triplicate_t4_code_bold-webfont.woff2') format('woff2'),
+  url('webfonts/triplicate_t4_code_bold-webfont.woff') format('woff');
 }
 
 @font-face {
@@ -166,15 +166,15 @@
   font-style: italic;
   
   src:
-  url('/webfonts/triplicate_t4_code_italic-webfont.woff2') format('woff2'),
-  url('/webfonts/triplicate_t4_code_italic-webfont.woff') format('woff');
+  url('webfonts/triplicate_t4_code_italic-webfont.woff2') format('woff2'),
+  url('webfonts/triplicate_t4_code_italic-webfont.woff') format('woff');
 }
 
 @font-face {
   font-family: 'TriplicateT4c';
   src:
-  url('/webfonts/triplicate_t4_code_bold_italic-webfont.woff2') format('woff2'),
-  url('/webfonts/triplicate_t4_code_bold_italic-webfont.woff') format('woff');
+  url('webfonts/triplicate_t4_code_bold_italic-webfont.woff2') format('woff2'),
+  url('webfonts/triplicate_t4_code_bold_italic-webfont.woff') format('woff');
   font-weight: 700;
   font-style: italic;
 }
