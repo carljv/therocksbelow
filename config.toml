@@ -1,10 +1,10 @@
-baseurl = "https://flamboyant-jones-0021d0.netlify.app/"
+baseurl = "/"
 languageCode = "en-us"
 title = "The Rocks Below"
 theme = "blackburn"
 author = "Carl Vogel"
 copyright = "&copy; 2020. All rights reserved."
-canonifyurls = true
+canonifyurls = false
 paginate = 10
 
 [indexes]
