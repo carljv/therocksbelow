@@ -1,5 +1,5 @@
 +++
-title = "Another *test* post"
+title = "Another test post"
 description = ""
 tags = [
     "test", "layout"
